@@ -1,26 +1,6 @@
-from pykinect2 import PyKinectV2
-from pykinect2.PyKinectV2 import *
-from pykinect2 import PyKinectRuntime
-import pickle
-import code,os,subprocess
-import ctypes
-import _ctypes
-import pygame
-import sys,cv2, torch,decimal    
+import code,os,sys,struct    
 import numpy as np
 import open3d as o3d
-from PIL import Image
-from skimage.measure import compare_ssim
-from torch.autograd import Variable
-if sys.hexversion >= 0x03000000:
-    import _thread as thread
-else:
-    import thread
-import pcl,random
-import pcl.pcl_visualization
-import struct
-import time
-from datetime import datetime
 
 
 class Filter3D():
