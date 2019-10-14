@@ -15,7 +15,7 @@ When specifying the range of pass through filters, it can be difficult to know w
 
 
 ## 2.Draw filter guidelines
-<img src="https://github.com/powersimmani/example_3d_pass_through-filter_guide/blob/master/images/1.raw_point_cloud.PNG?raw=true" width="384" height="216">
+<img src="https://github.com/powersimmani/example_3d_pass_through-filter_guide/blob/master/images/2.draw_filter_guidelines.PNG?raw=true" width="384" height="216">
 
 ## 3.Point cloud filtered with guildline
 <img src="https://github.com/powersimmani/example_3d_pass_through-filter_guide/blob/master/images/3.filtered_guildline.PNG?raw=true" width="384" height="216">
@@ -27,4 +27,5 @@ When specifying the range of pass through filters, it can be difficult to know w
 
 # Useful References
 This code can be usefully connected or extended with the following example code.
-[Point cloud streaming using PyKinect2](https://github.com/powersimmani/example_3d_reconstruction_pykinect2)
+
+- [Point cloud streaming using PyKinect2](https://github.com/powersimmani/example_3d_reconstruction_pykinect2)
